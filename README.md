@@ -5,6 +5,8 @@ Library for using the Carbon Dioxide (CO2) sensor Telaire T6613 / T6615 on the A
 
 Telaire T6615-10k is a Dual Channel CO2 Sensor Module designed to integrate into existing controls and equipment for use in instumentation and applications up to 10,000 ppm.
 
+This sensor use UART to communicate, 2 pins are required to interface.
+  
 Library written by Fernando Muller da Silva ([Federal Institute of Santa Catarina](https://www.ifsc.edu.br/web/campus-sao-jose)).
 
 
