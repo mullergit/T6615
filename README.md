@@ -25,7 +25,7 @@ License Information
 
 This product is _**open source**_! 
 
-if you see me (or any other IFSC employee) at the local, and you've found our code helpful, please buy us a round! 
+if you see me (or any other IFSC employee) at the local, and you've found our code helpful, please buy a round of beer! 
 
 Please use, reuse, and modify these files as you see fit. 
 
