@@ -1,7 +1,7 @@
 # TelaireT66CO2sensor
 Library for using the Carbon Dioxide (CO2) sensor Telaire T6613 / T6615 on the Arduino Uno platform.
 
-![Telaire T6615 and Arduino Uno](https://drive.google.com/file/d/1H_xuqfMQztj-16Mo5Z3WqywiJJvU4G85/view?usp=sharing)
+![Telaire T6615 and Arduino Uno](https://github.com/mullergit/TelaireT66CO2sensor/blob/master/t66earduino.jpg)
 
 Telaire T6615-10k is a Dual Channel CO2 Sensor Module designed to integrate into existing controls and equipment for use in instumentation and applications up to 10,000 ppm.
 
