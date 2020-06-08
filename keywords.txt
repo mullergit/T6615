@@ -1,0 +1,58 @@
+#######################################
+# Syntax Coloring Map
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+T66				KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+T66             KEYWORD2
+begin           KEYWORD2
+warmup          KEYWORD2
+skipWarmup      KEYWORD2
+halt            KEYWORD2
+testSTART       KEYWORD2
+testRESULTS     KEYWORD2
+idleON          KEYWORD2
+idleOFF         KEYWORD2
+readPPM         KEYWORD2
+readSTATUS      KEYWORD2
+readELEVATION   KEYWORD2
+readABC         KEYWORD2
+readSGPT        KEYWORD2
+setSGPT         KEYWORD2
+sgptCALIBRATE   KEYWORD2
+sendRequest     KEYWORD2
+getPPMorSGPT    KEYWORD2
+getElevation    KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+FLAG          LITERAL1
+ADDR          LITERAL1
+CMD_WARM      LITERAL1
+CMD_SKIP_WARMUP LITERAL1
+CMD_HALT      LITERAL1
+CMD_READ      LITERAL1
+SERIAL_NUMBER LITERAL1
+CO2PPM        LITERAL1
+ELEVATION     LITERAL1
+STATUS        LITERAL1
+CMD_SGPT_CALIBRATE LITERAL1
+CMD_SET       LITERAL1
+CMD_VFY       LITERAL1
+SGPTPPM       LITERAL1
+CMD_ABC       LITERAL1
+ABC_VFY       LITERAL1
+ABC_ON        LITERAL1
+ABC_RESET     LITERAL1
+ABC_OFF       LITERAL1
+
